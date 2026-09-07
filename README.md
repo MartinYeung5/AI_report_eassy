@@ -367,3 +367,4 @@ https://github.com/MartinYeung5/report_eassy/blob/main/MPIB%3A%20Medical%20Promp
 https://github.com/MartinYeung5/report_eassy/blob/main/A%20Classification%20of%20Safety%20Risks%20in%20Medical%20AI.md
 
 * Vulnerabilities of LLMs to Prompt Injection in Medical Advice（JAMA Network Open 2025）
+https://github.com/MartinYeung5/report_eassy/blob/main/Vulnerabilities%20of%20LLMs%20to%20Prompt%20Injection%20in%20Medical%20Advice%EF%BC%88JAMA%20Network%20Open%202025).md
