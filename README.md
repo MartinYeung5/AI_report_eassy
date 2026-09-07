@@ -361,3 +361,4 @@ https://github.com/MartinYeung5/report_eassy/blob/main/Addressing%20Benchmarking
 
 ## 20260831
 * MPIB: Medical Prompt Injection Benchmark
+https://github.com/MartinYeung5/report_eassy/blob/main/MPIB%3A%20Medical%20Prompt%20Injection%20Benchmark.md
