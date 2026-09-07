@@ -354,3 +354,5 @@ https://github.com/MartinYeung5/report_eassy/blob/main/Toward%20Expert%20Investm
 https://github.com/MartinYeung5/report_eassy/blob/main/Agentic%20Trading%3A%20When%20LLM%20Agents%20Meet%20Financial%20Markets%20%E2%80%94%20Evidence%20Map%20of%2077%20Studies.md
 
 * Safety and Security of Large Language Models in Healthcare (Nature 2026)
+
+* Addressing Benchmarking Gaps in LLMs for Health with Dynamic Red-Teaming (DAS)
