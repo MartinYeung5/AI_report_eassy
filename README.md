@@ -364,3 +364,5 @@ https://github.com/MartinYeung5/report_eassy/blob/main/Addressing%20Benchmarking
 https://github.com/MartinYeung5/report_eassy/blob/main/MPIB%3A%20Medical%20Prompt%20Injection%20Benchmark.md
 
 * A Classification of Safety Risks in Medical AI
+https://github.com/MartinYeung5/report_eassy/blob/main/A%20Classification%20of%20Safety%20Risks%20in%20Medical%20AI.md
+
