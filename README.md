@@ -350,3 +350,4 @@ https://github.com/MartinYeung5/report_eassy/blob/main/Can%20Blindfolded%20LLMs%
 https://github.com/MartinYeung5/report_eassy/blob/main/Toward%20Expert%20Investment%20Teams%3A%20A%20Multi-Agent%20LLM%20System%20with%20Fine-Grained%20Trading%20Tasks.md
 
 ## 20260829
+* Agentic Trading: When LLM Agents Meet Financial Markets — Evidence Map of 77 Studies
