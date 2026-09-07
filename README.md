@@ -351,3 +351,4 @@ https://github.com/MartinYeung5/report_eassy/blob/main/Toward%20Expert%20Investm
 
 ## 20260829
 * Agentic Trading: When LLM Agents Meet Financial Markets — Evidence Map of 77 Studies
+https://github.com/MartinYeung5/report_eassy/blob/main/Agentic%20Trading%3A%20When%20LLM%20Agents%20Meet%20Financial%20Markets%20%E2%80%94%20Evidence%20Map%20of%2077%20Studies.md
