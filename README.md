@@ -358,3 +358,6 @@ https://github.com/MartinYeung5/report_eassy/blob/main/Safety%20and%20Security%2
 
 * Addressing Benchmarking Gaps in LLMs for Health with Dynamic Red-Teaming (DAS)
 https://github.com/MartinYeung5/report_eassy/blob/main/Addressing%20Benchmarking%20Gaps%20in%20LLMs%20for%20Health%20with%20Dynamic%20Red-Teaming%20(DAS).md
+
+## 20260831
+* MPIB: Medical Prompt Injection Benchmark
