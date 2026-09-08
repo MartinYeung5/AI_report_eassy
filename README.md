@@ -382,3 +382,5 @@ https://github.com/MartinYeung5/report_eassy/blob/main/WoE%3A%20Watermarking%20o
 
 * Forensic Stealth in Generative-AI Watermark Removal
 https://github.com/MartinYeung5/report_eassy/blob/main/Forensic%20Stealth%20in%20Generative-AI%20Watermark%20Removal.md
+
+* Watermarks Attack Watermarks: Re-Watermarking as Generic Removal
