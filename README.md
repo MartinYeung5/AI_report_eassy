@@ -373,4 +373,5 @@ https://github.com/MartinYeung5/report_eassy/blob/main/Vulnerabilities%20of%20LL
 * Towards Effective Offensive Security LLM Agents: Hyperparameter Tuning, LLM-as-a-Judge, and a Lightweight CTF Benchmark
 https://github.com/MartinYeung5/report_eassy/blob/main/Towards%20Effective%20Offensive%20Security%20LLM%20Agents%3A%20Hyperparameter%20Tuning%2C%20LLM-as-a-Judge%2C%20and%20a%20Lightweight%20CTF%20Benchmark.md
 
-
+* The Personalization Trap: How User Memory Alters Emotional Reasoning in LLMs
+* 
