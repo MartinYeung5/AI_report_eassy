@@ -376,5 +376,7 @@ https://github.com/MartinYeung5/report_eassy/blob/main/Towards%20Effective%20Off
 * The Personalization Trap: How User Memory Alters Emotional Reasoning in LLMs
 https://github.com/MartinYeung5/report_eassy/blob/main/The%20Personalization%20Trap%3A%20How%20User%20Memory%20Alters%20Emotional%20Reasoning%20in%20LLMs.md
 
+## 20260902
+* WoE: Watermarking of Experts for MoE LLMs
 
 
