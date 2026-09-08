@@ -370,5 +370,5 @@ https://github.com/MartinYeung5/report_eassy/blob/main/A%20Classification%20of%2
 https://github.com/MartinYeung5/report_eassy/blob/main/Vulnerabilities%20of%20LLMs%20to%20Prompt%20Injection%20in%20Medical%20Advice%EF%BC%88JAMA%20Network%20Open%202025).md
 
 ## 20260901
-*Towards Effective Offensive Security LLM Agents: Hyperparameter Tuning, LLM-as-a-Judge, and a Lightweight CTF Benchmark
+* Towards Effective Offensive Security LLM Agents: Hyperparameter Tuning, LLM-as-a-Judge, and a Lightweight CTF Benchmark
 
